@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### FrameWork
-![React Native](img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
 ### Library
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
