@@ -37,5 +37,5 @@
 ### 화면
 | 로그인 | 회원가입 | 메인화면 | 사용자 주의사항 |
 | :------------: | :------------: |:------------:|:------------:|
-|(./이미지/image02.png)|(./이미지/image03.png)|(./이미지/image04.png)|(./이미지/image05.png)|
+|([./이미지/image02.png](https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image02.png))|(./이미지/image03.png)|(./이미지/image04.png)|(./이미지/image05.png)|
 
