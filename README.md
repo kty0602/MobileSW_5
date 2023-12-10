@@ -19,10 +19,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### FrameWork
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+![React Native](https://img.shields.io/badge/React%Native-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 ### Library
-![React Native](https://img.shields.io/badge/React%Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Tool
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
