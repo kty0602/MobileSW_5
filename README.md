@@ -37,5 +37,5 @@
 ### 화면
 | 로그인 | 회원가입 | 메인화면 | 사용자 주의사항 |
 | :------------: | :------------: |:------------:|:------------:|
-|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image02.png" width="300" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image03.png" width="300" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image04.png" width="300" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image05.png" width="300" height="300"/>|
+|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image02.png" width="250" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image03.png" width="250" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image04.png" width="250" height="300"/>|<img src="https://github.com/kty0602/MobileSW_5/blob/StudentApp/%EC%9D%B4%EB%AF%B8%EC%A7%80/image05.png" width="250" height="300"/>|
 
